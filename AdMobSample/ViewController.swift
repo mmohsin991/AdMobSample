@@ -19,6 +19,7 @@ class ViewController: UIViewController, GADBannerViewDelegate {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
+
         
         println("Google Mobile Ads SDK version: " + GADRequest.sdkVersion())
         
